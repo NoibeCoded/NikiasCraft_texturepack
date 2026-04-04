@@ -1,0 +1,12 @@
+{
+  "parent": "myrp:block/cube",
+  "textures": {
+    "particle": "myrp:block/raw_platinum_block",
+    "down":     "myrp:block/raw_platinum_block",
+    "up":       "myrp:block/raw_platinum_block",
+    "north":    "myrp:block/raw_platinum_block",
+    "east":     "myrp:block/raw_platinum_block",
+    "south":    "myrp:block/raw_platinum_block",
+    "west":     "myrp:block/raw_platinum_block"
+  }
+}

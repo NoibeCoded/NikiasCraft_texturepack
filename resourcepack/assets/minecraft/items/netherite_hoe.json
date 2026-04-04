@@ -1,0 +1,97 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "entries": [
+      {
+        "threshold": 2004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/titanium_hoe"
+        }
+      },
+      {
+        "threshold": 3004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/aurum_hoe"
+        }
+      },
+      {
+        "threshold": 4004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/ruby_hoe"
+        }
+      },
+      {
+        "threshold": 5005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/rehab_hoe"
+        }
+      },
+      {
+        "threshold": 6004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/golfa_hoe"
+        }
+      },
+      {
+        "threshold": 9004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/iridium_hoe"
+        }
+      },
+      {
+        "threshold": 10004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/amethyst_hoe"
+        }
+      },
+      {
+        "threshold": 11034,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/hades_hoe"
+        }
+      },
+      {
+        "threshold": 12004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/jade_hoe"
+        }
+      },
+      {
+        "threshold": 13004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/platinum_hoe"
+        }
+      },
+      {
+        "threshold": 14004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/mythril_hoe"
+        }
+      },
+      {
+        "threshold": 15004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/vanaditina_hoe"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_hoe"
+    }
+  }
+}

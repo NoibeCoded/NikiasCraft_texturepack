@@ -1,0 +1,104 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "entries": [
+      {
+        "threshold": 2002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/titanium_pickaxe"
+        }
+      },
+      {
+        "threshold": 2012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/emerald_pickaxe"
+        }
+      },
+      {
+        "threshold": 3002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/aurum_pickaxe"
+        }
+      },
+      {
+        "threshold": 4002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/ruby_pickaxe"
+        }
+      },
+      {
+        "threshold": 5003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/rehab_pickaxe"
+        }
+      },
+      {
+        "threshold": 6002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/golfa_pickaxe"
+        }
+      },
+      {
+        "threshold": 9002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/iridium_pickaxe"
+        }
+      },
+      {
+        "threshold": 10002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/amethyst_pickaxe"
+        }
+      },
+      {
+        "threshold": 11002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/hades_pickaxe"
+        }
+      },
+      {
+        "threshold": 12002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/jade_pickaxe"
+        }
+      },
+      {
+        "threshold": 13002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/platinum_pickaxe"
+        }
+      },
+      {
+        "threshold": 14002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/mythril_pickaxe"
+        }
+      },
+      {
+        "threshold": 15002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/vanaditina_pickaxe"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_pickaxe"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "layers": {
+    "humanoid":          [{ "texture": "myrp:amethyst_armor_layer_1" }],
+    "humanoid_leggings": [{ "texture": "myrp:amethyst_armor_layer_2" }]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "myrp:hades_layer_1"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "myrp:hades_layer_2"
+      }
+    ],
+    "wings": [
+      {
+        "texture": "myrp:hades"
+      }
+    ]
+  }
+}

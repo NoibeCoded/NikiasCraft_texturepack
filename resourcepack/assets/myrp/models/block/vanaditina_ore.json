@@ -1,0 +1,12 @@
+{
+  "parent": "myrp:block/cube",
+  "textures": {
+    "particle": "myrp:block/vanaditina_ore",
+    "down":     "myrp:block/vanaditina_ore",
+    "up":       "myrp:block/vanaditina_ore",
+    "north":    "myrp:block/vanaditina_ore",
+    "east":     "myrp:block/vanaditina_ore",
+    "south":    "myrp:block/vanaditina_ore",
+    "west":     "myrp:block/vanaditina_ore"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "entries": [
+      {
+        "threshold": 1009,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/emerald_chestplate"
+        }
+      },
+      {
+        "threshold": 1014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/titanium_chestplate"
+        }
+      },
+      {
+        "threshold": 3012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/aurum_skin_chestplate"
+        }
+      },
+      {
+        "threshold": 4012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/ruby_skin_chestplate"
+        }
+      },
+      {
+        "threshold": 5012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/rehab_chestplate"
+        }
+      },
+      {
+        "threshold": 6012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/golfa_skin_chestplate"
+        }
+      },
+      {
+        "threshold": 7012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/fifito_chestplate"
+        }
+      },
+      {
+        "threshold": 8012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/gold_chestplate"
+        }
+      },
+      {
+        "threshold": 9012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/iridium_skin_chestplate"
+        }
+      },
+      {
+        "threshold": 10012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/amethyst_skin_chestplate"
+        }
+      },
+      {
+        "threshold": 11012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/hades_chestplate"
+        }
+      },
+      {
+        "threshold": 15012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/vanaditina_chestplate"
+        }
+      },
+      {
+        "threshold": 12012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/jade_chestplate"
+        }
+      },
+      {
+        "threshold": 13012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/platinum_chestplate"
+        }
+      },
+      {
+        "threshold": 14012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/mythril_chestplate"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/leather_chestplate"
+    }
+  }
+}

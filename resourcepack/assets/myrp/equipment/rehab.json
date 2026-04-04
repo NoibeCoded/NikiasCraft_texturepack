@@ -1,0 +1,6 @@
+{
+  "layers": {
+    "humanoid":          [{ "texture": "myrp:rehab_layer_1" }],
+    "humanoid_leggings": [{ "texture": "myrp:rehab_layer_2" }]
+  }
+}

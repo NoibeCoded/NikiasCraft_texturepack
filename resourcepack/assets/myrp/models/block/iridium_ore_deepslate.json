@@ -1,0 +1,12 @@
+{
+  "parent": "myrp:block/cube",
+  "textures": {
+    "particle": "myrp:block/iridium_ore_deepslate",
+    "down":     "myrp:block/iridium_ore_deepslate",
+    "up":       "myrp:block/iridium_ore_deepslate",
+    "north":    "myrp:block/iridium_ore_deepslate",
+    "east":     "myrp:block/iridium_ore_deepslate",
+    "south":    "myrp:block/iridium_ore_deepslate",
+    "west":     "myrp:block/iridium_ore_deepslate"
+  }
+}

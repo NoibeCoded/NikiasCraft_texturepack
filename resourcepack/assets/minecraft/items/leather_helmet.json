@@ -1,0 +1,125 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "entries": [
+      {
+        "threshold": 1007,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/titanium_helmet"
+        }
+      },
+      {
+        "threshold": 1008,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/emerald_helmet"
+        }
+      },
+      {
+        "threshold": 3011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/aurum_skin_helmet"
+        }
+      },
+      {
+        "threshold": 4011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/ruby_skin_helmet"
+        }
+      },
+      {
+        "threshold": 5011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/rehab_helmet"
+        }
+      },
+      {
+        "threshold": 6011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/golfa_skin_helmet"
+        }
+      },
+      {
+        "threshold": 7011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/fifito_helmet"
+        }
+      },
+      {
+        "threshold": 8011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/gold_helmet"
+        }
+      },
+      {
+        "threshold": 9011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/iridium_skin_helmet"
+        }
+      },
+      {
+        "threshold": 10011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/amethyst_skin_helmet"
+        }
+      },
+      {
+        "threshold": 11011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/hades_helmet"
+        }
+      },
+      {
+        "threshold": 11111,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/hades_helmet3d"
+        }
+      },
+      {
+        "threshold": 12011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/jade_helmet"
+        }
+      },
+      {
+        "threshold": 13011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/platinum_helmet"
+        }
+      },
+      {
+        "threshold": 14011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/mythril_helmet"
+        }
+      },
+      {
+        "threshold": 15011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/vanaditina_helmet"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/leather_helmet"
+    }
+  }
+}

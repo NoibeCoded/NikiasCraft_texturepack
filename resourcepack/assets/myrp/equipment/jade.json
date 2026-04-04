@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "myrp:jade_armor_layer_1"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "myrp:jade_armor_layer_2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "myrp:block/cube",
+  "textures": {
+    "particle": "myrp:block/mythril_ore",
+    "down":     "myrp:block/mythril_ore",
+    "up":       "myrp:block/mythril_ore",
+    "north":    "myrp:block/mythril_ore",
+    "east":     "myrp:block/mythril_ore",
+    "south":    "myrp:block/mythril_ore",
+    "west":     "myrp:block/mythril_ore"
+  }
+}

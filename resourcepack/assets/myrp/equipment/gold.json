@@ -1,0 +1,6 @@
+{
+  "layers": {
+    "humanoid":          [{ "texture": "myrp:gold_negro_layer_1" }],
+    "humanoid_leggings": [{ "texture": "myrp:gold_negro_layer_2" }]
+  }
+}

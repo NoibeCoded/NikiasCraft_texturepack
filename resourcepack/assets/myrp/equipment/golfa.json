@@ -1,0 +1,6 @@
+{
+  "layers": {
+    "humanoid":          [{ "texture": "myrp:golfa_skin_layer_1" }],
+    "humanoid_leggings": [{ "texture": "myrp:golfa_skin_layer_2" }]
+  }
+}

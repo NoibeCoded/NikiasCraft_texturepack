@@ -1,0 +1,118 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "entries": [
+      {
+        "threshold": 1011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/emerald_boots"
+        }
+      },
+      {
+        "threshold": 1016,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/titanium_boots"
+        }
+      },
+      {
+        "threshold": 3014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/aurum_skin_boots"
+        }
+      },
+      {
+        "threshold": 4014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/ruby_skin_boots"
+        }
+      },
+      {
+        "threshold": 5014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/rehab_boots"
+        }
+      },
+      {
+        "threshold": 6014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/golfa_skin_boots"
+        }
+      },
+      {
+        "threshold": 7014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/fifito_boots"
+        }
+      },
+      {
+        "threshold": 8014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/gold_boots"
+        }
+      },
+      {
+        "threshold": 9014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/iridium_skin_boots"
+        }
+      },
+      {
+        "threshold": 10014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/amethyst_skin_boots"
+        }
+      },
+      {
+        "threshold": 11014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/hades_boots"
+        }
+      },
+      {
+        "threshold": 15014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/vanaditina_boots"
+        }
+      },
+      {
+        "threshold": 12014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/jade_boots"
+        }
+      },
+      {
+        "threshold": 13014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/platinum_boots"
+        }
+      },
+      {
+        "threshold": 14014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "myrp:item/mythril_boots"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/leather_boots"
+    }
+  }
+}

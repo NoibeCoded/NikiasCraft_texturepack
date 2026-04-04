@@ -1,0 +1,11 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "entries": [
+      { "threshold": 11112, "model": { "type": "minecraft:model", "model": "myrp:item/hades_fishing_rod" } }
+    ],
+    "fallback": { "type": "minecraft:model", "model": "minecraft:item/fishing_rod" }
+  }
+}

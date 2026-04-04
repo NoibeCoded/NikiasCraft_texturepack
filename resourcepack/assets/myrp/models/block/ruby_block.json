@@ -1,0 +1,12 @@
+{
+  "parent": "myrp:block/cube",
+  "textures": {
+    "particle": "myrp:block/ruby_block",
+    "down":     "myrp:block/ruby_block",
+    "up":       "myrp:block/ruby_block",
+    "north":    "myrp:block/ruby_block",
+    "east":     "myrp:block/ruby_block",
+    "south":    "myrp:block/ruby_block",
+    "west":     "myrp:block/ruby_block"
+  }
+}

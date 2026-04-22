@@ -1,0 +1,12 @@
+{
+  "parent": "minepop:custom/baseminipopspiderman",
+  "textures": {
+    "all": "minepop:block/model_head_text_spiderman",
+    "particle": "minepop:block/model_head_text_spiderman",
+    "7": "minepop:block/box_text_dirt_spiderman",
+    "8": "minepop:block/front_box_text_spiderman",
+    "9": "minepop:block/model_body_text_spiderman",
+    "10": "minepop:block/model_head_text_spiderman"
+  },
+  "render_type": "cutout"
+}

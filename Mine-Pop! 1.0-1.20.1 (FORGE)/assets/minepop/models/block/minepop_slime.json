@@ -1,0 +1,11 @@
+{
+  "parent": "minepop:custom/baseminipopslime",
+  "textures": {
+    "all": "minepop:block/model_head_text_slime",
+    "particle": "minepop:block/model_head_text_slime",
+    "1": "minepop:block/box_text_dirt_slime",
+    "2": "minepop:block/front_box_text_slime",
+    "3": "minepop:block/model_head_text_slime"
+  },
+  "render_type": "cutout"
+}

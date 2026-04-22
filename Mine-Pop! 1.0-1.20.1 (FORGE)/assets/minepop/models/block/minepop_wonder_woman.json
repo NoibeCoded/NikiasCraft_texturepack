@@ -1,0 +1,12 @@
+{
+  "parent": "minepop:custom/baseminipopwonderwoman",
+  "textures": {
+    "all": "minepop:block/model_head_text_wonderwoman",
+    "particle": "minepop:block/model_head_text_wonderwoman",
+    "0": "minepop:block/model_head_text_wonderwoman",
+    "1": "minepop:block/box_text_dirt_wonderwoman",
+    "2": "minepop:block/front_box_text_wonderwoman",
+    "3": "minepop:block/model_body_text_wonderwoman"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minepop:custom/baseminipopluffy",
+  "textures": {
+    "all": "minepop:block/model_head_text_luffy",
+    "particle": "minepop:block/model_head_text_luffy",
+    "0": "minepop:block/box_text_dirt_luffy",
+    "1": "minepop:block/front_box_text_luffy",
+    "2": "minepop:block/model_body_text_luffy",
+    "3": "minepop:block/model_head_text_luffy"
+  },
+  "render_type": "cutout"
+}

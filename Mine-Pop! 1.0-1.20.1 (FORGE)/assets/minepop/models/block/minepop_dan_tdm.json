@@ -1,0 +1,12 @@
+{
+  "parent": "minepop:custom/baseminipopdantdm",
+  "textures": {
+    "all": "minepop:block/model_head_text_dantdm",
+    "particle": "minepop:block/model_head_text_dantdm",
+    "2": "minepop:block/box_text_dirt_dantdm",
+    "3": "minepop:block/model_head_text_dantdm",
+    "6": "minepop:block/front_box_text_dantdm",
+    "7": "minepop:block/model_body_text_dantdm"
+  },
+  "render_type": "cutout"
+}

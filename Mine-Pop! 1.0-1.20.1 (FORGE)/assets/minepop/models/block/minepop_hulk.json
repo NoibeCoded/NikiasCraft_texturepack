@@ -1,0 +1,12 @@
+{
+  "parent": "minepop:custom/baseminipophulk",
+  "textures": {
+    "all": "minepop:block/model_head_text_hulk",
+    "particle": "minepop:block/model_head_text_hulk",
+    "0": "minepop:block/model_head_text_hulk",
+    "1": "minepop:block/box_text_dirt_hulk",
+    "2": "minepop:block/model_body_text_hulk",
+    "3": "minepop:block/front_box_text_hulk"
+  },
+  "render_type": "cutout"
+}

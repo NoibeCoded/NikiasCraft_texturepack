@@ -1,0 +1,12 @@
+{
+  "parent": "minepop:custom/baseminipopkrillin",
+  "textures": {
+    "all": "minepop:block/model_head_text_krillin",
+    "particle": "minepop:block/model_head_text_krillin",
+    "7": "minepop:block/front_box_text_krillin",
+    "8": "minepop:block/model_body_text_krillin",
+    "9": "minepop:block/model_head_text_krillin",
+    "10": "minepop:block/box_text_dirt_krillin"
+  },
+  "render_type": "cutout"
+}

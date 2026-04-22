@@ -1,0 +1,13 @@
+{
+  "parent": "minepop:custom/baseminipopobiwankenobi",
+  "textures": {
+    "all": "minepop:block/model_head_text_obiwankenobi",
+    "particle": "minepop:block/model_head_text_obiwankenobi",
+    "0": "minepop:block/box_text_dirt_obiwankenobi",
+    "1": "minepop:block/front_box_text_obiwankenobi",
+    "2": "minepop:block/lightsaber_obiwankenobi",
+    "3": "minepop:block/model_body_text_obiwankenobi",
+    "4": "minepop:block/model_head_text_obiwankenobi"
+  },
+  "render_type": "cutout"
+}

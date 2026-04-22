@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "minepop:block/minepop_wonder_woman"
+    },
+    "facing=east": {
+      "model": "minepop:block/minepop_wonder_woman",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "minepop:block/minepop_wonder_woman",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minepop:block/minepop_wonder_woman",
+      "y": 270
+    }
+  }
+}

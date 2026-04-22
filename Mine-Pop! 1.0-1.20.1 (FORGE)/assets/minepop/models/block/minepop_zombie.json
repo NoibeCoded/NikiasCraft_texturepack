@@ -1,0 +1,12 @@
+{
+  "parent": "minepop:custom/baseminipopzombie",
+  "textures": {
+    "all": "minepop:block/model_head_text_zombie",
+    "particle": "minepop:block/model_head_text_zombie",
+    "3": "minepop:block/model_head_text_zombie",
+    "5": "minepop:block/box_text_dirt_zombie",
+    "6": "minepop:block/front_box_text_zombie",
+    "7": "minepop:block/model_body_text_zombie"
+  },
+  "render_type": "cutout"
+}

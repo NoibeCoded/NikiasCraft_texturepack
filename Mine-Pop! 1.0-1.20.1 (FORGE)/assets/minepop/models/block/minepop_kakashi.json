@@ -1,0 +1,13 @@
+{
+  "parent": "minepop:custom/baseminipopkakashi",
+  "textures": {
+    "all": "minepop:block/model_head_text_kakashi",
+    "particle": "minepop:block/model_head_text_kakashi",
+    "3": "minepop:block/model_head_text_kakashi",
+    "4": "minepop:block/sharingan_eyes",
+    "5": "minepop:block/box_text_dirt_kakashi",
+    "6": "minepop:block/front_box_text_kakashi",
+    "7": "minepop:block/model_body_text_kakashi"
+  },
+  "render_type": "cutout"
+}

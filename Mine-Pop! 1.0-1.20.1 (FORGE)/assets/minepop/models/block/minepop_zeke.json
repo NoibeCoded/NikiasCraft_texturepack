@@ -1,0 +1,12 @@
+{
+  "parent": "minepop:custom/baseminipopzeke",
+  "textures": {
+    "all": "minepop:block/model_head_text_zeke",
+    "particle": "minepop:block/model_head_text_zeke",
+    "0": "minepop:block/box_text_dirt_zeke",
+    "1": "minepop:block/front_box_text_zeke",
+    "2": "minepop:block/model_body_text_zeke",
+    "3": "minepop:block/model_head_text_zeke"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "minepop:custom/baseminipopakaza",
+  "textures": {
+    "all": "minepop:block/model_head_text_akaza",
+    "particle": "minepop:block/model_head_text_akaza",
+    "4": "minepop:block/akaza_eyes",
+    "5": "minepop:block/model_head_text_akaza",
+    "6": "minepop:block/front_box_text_akaza",
+    "7": "minepop:block/model_body_text_akaza",
+    "8": "minepop:block/box_text_dirt_akaza"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minepop:custom/baseminipopblackbeard",
+  "textures": {
+    "all": "minepop:block/model_head_text_blackbeard",
+    "particle": "minepop:block/model_head_text_blackbeard",
+    "7": "minepop:block/front_box_text_blackbeard",
+    "8": "minepop:block/model_body_text_blackbeard",
+    "9": "minepop:block/model_head_text_blackbeard",
+    "10": "minepop:block/box_text_dirt_blackbeard"
+  },
+  "render_type": "cutout"
+}

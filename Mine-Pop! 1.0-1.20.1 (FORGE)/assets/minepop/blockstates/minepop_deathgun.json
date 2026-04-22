@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "minepop:block/minepop_deathgun"
+    },
+    "facing=east": {
+      "model": "minepop:block/minepop_deathgun",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "minepop:block/minepop_deathgun",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minepop:block/minepop_deathgun",
+      "y": 270
+    }
+  }
+}

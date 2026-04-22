@@ -1,0 +1,12 @@
+{
+  "parent": "minepop:custom/baseminipopcell",
+  "textures": {
+    "all": "minepop:block/model_head_text_cell",
+    "particle": "minepop:block/model_head_text_cell",
+    "2": "minepop:block/model_head_text_cell",
+    "8": "minepop:block/box_text_dirt_cell",
+    "9": "minepop:block/front_box_text_cell",
+    "10": "minepop:block/model_body_text_cell"
+  },
+  "render_type": "cutout"
+}

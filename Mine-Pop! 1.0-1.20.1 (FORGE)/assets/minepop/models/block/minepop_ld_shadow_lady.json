@@ -1,0 +1,12 @@
+{
+  "parent": "minepop:custom/baseminipopldshadowlady",
+  "textures": {
+    "all": "minepop:block/model_head_text_ldshadowlady",
+    "particle": "minepop:block/model_head_text_ldshadowlady",
+    "6": "minepop:block/front_box_text_ldshadowlady",
+    "7": "minepop:block/model_body_text_ldshadowlady",
+    "8": "minepop:block/box_text_dirt_ldshadowlady",
+    "9": "minepop:block/model_head_text_ldshadowlady"
+  },
+  "render_type": "cutout"
+}

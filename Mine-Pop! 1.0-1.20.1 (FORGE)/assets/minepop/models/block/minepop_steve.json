@@ -1,0 +1,12 @@
+{
+  "parent": "minepop:custom/baseminipopsteve",
+  "textures": {
+    "all": "minepop:block/model_head_text_steve",
+    "particle": "minepop:block/model_head_text_steve",
+    "5": "minepop:block/box_text_dirt_steve",
+    "6": "minepop:block/front_box_text_steve",
+    "7": "minepop:block/model_body_text_steve",
+    "8": "minepop:block/model_head_text_steve"
+  },
+  "render_type": "cutout"
+}

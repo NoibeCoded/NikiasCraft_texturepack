@@ -1,0 +1,12 @@
+{
+  "parent": "minepop:custom/baseminipopdeadpool",
+  "textures": {
+    "all": "minepop:block/model_head_text_deadpool",
+    "particle": "minepop:block/model_head_text_deadpool",
+    "1": "minepop:block/box_text_dirt_deadpool",
+    "4": "minepop:block/model_head_text_deadpool",
+    "5": "minepop:block/model_body_text_deadpool",
+    "6": "minepop:block/front_box_text_deadpool"
+  },
+  "render_type": "cutout"
+}

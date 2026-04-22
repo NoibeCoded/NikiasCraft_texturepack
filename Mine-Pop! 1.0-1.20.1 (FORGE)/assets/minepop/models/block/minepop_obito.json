@@ -1,0 +1,13 @@
+{
+  "parent": "minepop:custom/baseminipopobito",
+  "textures": {
+    "all": "minepop:block/model_head_text_obito",
+    "particle": "minepop:block/model_head_text_obito",
+    "4": "minepop:block/eyes_obito",
+    "5": "minepop:block/box_text_dirt_obito",
+    "6": "minepop:block/front_box_text_obito",
+    "7": "minepop:block/model_body_text_obito",
+    "8": "minepop:block/model_head_text_obito"
+  },
+  "render_type": "cutout"
+}

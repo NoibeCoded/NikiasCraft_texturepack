@@ -1,0 +1,13 @@
+{
+  "parent": "minepop:custom/baseminipopsasuke",
+  "textures": {
+    "all": "minepop:block/model_head_text_sasuke",
+    "particle": "minepop:block/model_head_text_sasuke",
+    "2": "minepop:block/box_text_dirt_sasuke",
+    "3": "minepop:block/front_box_text_sasuke",
+    "4": "minepop:block/model_head_text_sasuke",
+    "6": "minepop:block/eyes",
+    "7": "minepop:block/model_body_text_sasuke"
+  },
+  "render_type": "cutout"
+}

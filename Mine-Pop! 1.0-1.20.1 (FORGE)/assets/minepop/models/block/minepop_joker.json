@@ -1,0 +1,12 @@
+{
+  "parent": "minepop:custom/baseminipopjoker",
+  "textures": {
+    "all": "minepop:block/model_head_text_joker",
+    "particle": "minepop:block/model_head_text_joker",
+    "1": "minepop:block/box_text_dirt_joker",
+    "2": "minepop:block/front_box_text_joker",
+    "3": "minepop:block/model_body_text_joker",
+    "4": "minepop:block/model_head_text_joker"
+  },
+  "render_type": "cutout"
+}

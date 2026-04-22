@@ -1,0 +1,13 @@
+{
+  "parent": "minepop:custom/baseminipoppain",
+  "textures": {
+    "all": "minepop:block/model_head_text_pain",
+    "particle": "minepop:block/model_head_text_pain",
+    "3": "minepop:block/model_head_text_pain",
+    "4": "minepop:block/rinnegan",
+    "5": "minepop:block/box_text_dirt_pain",
+    "6": "minepop:block/front_box_text_pain",
+    "7": "minepop:block/model_body_text_pain"
+  },
+  "render_type": "cutout"
+}

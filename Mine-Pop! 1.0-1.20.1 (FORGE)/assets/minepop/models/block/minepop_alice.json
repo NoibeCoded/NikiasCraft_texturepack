@@ -1,0 +1,13 @@
+{
+  "parent": "minepop:custom/baseminipopalice",
+  "textures": {
+    "all": "minepop:block/model_head_text_alice",
+    "particle": "minepop:block/model_head_text_alice",
+    "0": "minepop:block/alice_sword",
+    "1": "minepop:block/box_text_dirt_alice",
+    "2": "minepop:block/front_box_text_alice",
+    "3": "minepop:block/model_body_text_alice",
+    "4": "minepop:block/model_head_text_alice"
+  },
+  "render_type": "cutout"
+}

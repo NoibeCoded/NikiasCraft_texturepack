@@ -1,0 +1,12 @@
+{
+  "parent": "minepop:custom/baseminipopbigmom",
+  "textures": {
+    "all": "minepop:block/model_head_text_bigmom",
+    "particle": "minepop:block/model_head_text_bigmom",
+    "7": "minepop:block/front_box_text_bigmom",
+    "8": "minepop:block/model_body_text_bigmom",
+    "9": "minepop:block/model_head_text_bigmom",
+    "10": "minepop:block/box_text_dirt_bigmom"
+  },
+  "render_type": "cutout"
+}

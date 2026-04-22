@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "minepop:block/minepop_armin"
+    },
+    "facing=east": {
+      "model": "minepop:block/minepop_armin",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "minepop:block/minepop_armin",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minepop:block/minepop_armin",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "parent": "minepop:custom/baseminipoptanjiro",
+  "textures": {
+    "all": "minepop:block/model_head_text_tanjiro",
+    "particle": "minepop:block/model_head_text_tanjiro",
+    "4": "minepop:block/tanjiro_eyes",
+    "6": "minepop:block/front_box_text_tanjiro",
+    "7": "minepop:block/model_body_text_tanjiro",
+    "8": "minepop:block/model_head_text_tanjiro",
+    "9": "minepop:block/box_text_dirt_tanjiro",
+    "10": "minepop:block/weapon_tanjiro"
+  },
+  "render_type": "cutout"
+}

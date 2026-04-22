@@ -1,0 +1,13 @@
+{
+  "parent": "minepop:custom/baseminipopssjgoku",
+  "textures": {
+    "all": "minepop:block/model_head_text_ssjgoku",
+    "particle": "minepop:block/model_head_text_ssjgoku",
+    "11": "minepop:block/hair_ssjgoku",
+    "12": "minepop:block/model_body_text_ssjgoku",
+    "13": "minepop:block/model_head_text_ssjgoku",
+    "5": "minepop:block/box_text_dirt_ssjgoku",
+    "10": "minepop:block/front_box_text_ssjgoku"
+  },
+  "render_type": "cutout"
+}

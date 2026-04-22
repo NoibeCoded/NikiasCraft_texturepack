@@ -1,0 +1,12 @@
+{
+  "parent": "minepop:custom/baseminipopdrstrange",
+  "textures": {
+    "all": "minepop:block/model_head_text_drstrange",
+    "particle": "minepop:block/model_head_text_drstrange",
+    "1": "minepop:block/box_text_dirt_drstrange",
+    "2": "minepop:block/model_body_text_drstrange",
+    "3": "minepop:block/front_box_text_drstrange",
+    "5": "minepop:block/model_head_text_drstrange"
+  },
+  "render_type": "cutout"
+}

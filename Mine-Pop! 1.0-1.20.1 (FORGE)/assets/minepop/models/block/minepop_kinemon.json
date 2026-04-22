@@ -1,0 +1,12 @@
+{
+  "parent": "minepop:custom/baseminipopkinemon",
+  "textures": {
+    "all": "minepop:block/model_head_text_kinemon",
+    "particle": "minepop:block/model_head_text_kinemon",
+    "4": "minepop:block/front_box_text_kinemon",
+    "5": "minepop:block/model_body_text_kinemon",
+    "6": "minepop:block/model_head_text_kinemon",
+    "10": "minepop:block/box_text_dirt_kinemon"
+  },
+  "render_type": "cutout"
+}

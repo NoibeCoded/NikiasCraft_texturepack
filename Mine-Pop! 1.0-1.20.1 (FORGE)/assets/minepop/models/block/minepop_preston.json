@@ -1,0 +1,12 @@
+{
+  "parent": "minepop:custom/baseminipopprestonplayz",
+  "textures": {
+    "all": "minepop:block/model_head_text_prestonplayz",
+    "particle": "minepop:block/model_head_text_prestonplayz",
+    "3": "minepop:block/model_body_text_prestonplayz",
+    "5": "minepop:block/box_text_dirt_prestonplayz",
+    "6": "minepop:block/front_box_text_prestonplayz",
+    "8": "minepop:block/model_head_text_prestonplayz"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minepop:custom/baseminipoplukeprincessleia",
+  "textures": {
+    "all": "minepop:block/model_head_text_princessleia",
+    "particle": "minepop:block/model_head_text_princessleia",
+    "0": "minepop:block/front_box_text_princessleia",
+    "1": "minepop:block/model_body_text_princessleia",
+    "2": "minepop:block/model_head_text_princessleia",
+    "3": "minepop:block/box_text_dirt_princessleia"
+  },
+  "render_type": "cutout"
+}

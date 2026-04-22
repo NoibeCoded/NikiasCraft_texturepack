@@ -1,0 +1,12 @@
+{
+  "parent": "minepop:custom/baseminipopmrbeast",
+  "textures": {
+    "all": "minepop:block/model_head_text_mrbeast",
+    "particle": "minepop:block/model_head_text_mrbeast",
+    "2": "minepop:block/box_text_dirt_mrbeast",
+    "3": "minepop:block/model_head_text_mrbeast",
+    "6": "minepop:block/front_box_text_mrbeast",
+    "7": "minepop:block/model_body_text_mrbeast"
+  },
+  "render_type": "cutout"
+}

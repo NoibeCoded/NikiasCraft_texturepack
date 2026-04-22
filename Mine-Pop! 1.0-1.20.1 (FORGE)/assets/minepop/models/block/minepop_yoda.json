@@ -1,0 +1,12 @@
+{
+  "parent": "minepop:custom/baseminipopyoda",
+  "textures": {
+    "all": "minepop:block/model_body_text_yoda",
+    "particle": "minepop:block/model_body_text_yoda",
+    "1": "minepop:block/lightsaber_yoda",
+    "2": "minepop:block/box_text_dirt_yoda",
+    "3": "minepop:block/model_body_text_yoda",
+    "4": "minepop:block/front_box_text_yoda"
+  },
+  "render_type": "cutout"
+}

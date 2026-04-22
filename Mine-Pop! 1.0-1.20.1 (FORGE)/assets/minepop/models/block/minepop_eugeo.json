@@ -1,0 +1,13 @@
+{
+  "parent": "minepop:custom/baseminipopeugeo",
+  "textures": {
+    "all": "minepop:block/model_head_text_eugeo",
+    "particle": "minepop:block/model_head_text_eugeo",
+    "0": "minepop:block/eugeo_sword",
+    "1": "minepop:block/front_box_text_eugeo",
+    "2": "minepop:block/model_body_text_eugeo",
+    "3": "minepop:block/model_head_text_eugeo",
+    "4": "minepop:block/box_text_dirt_eugeo"
+  },
+  "render_type": "cutout"
+}

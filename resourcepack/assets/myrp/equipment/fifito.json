@@ -1,6 +1,0 @@
-{
-  "layers": {
-    "humanoid":          [{ "texture": "myrp:fifito_layer_1" }],
-    "humanoid_leggings": [{ "texture": "myrp:fifito_layer_2" }]
-  }
-}

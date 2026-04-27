@@ -1,0 +1,26 @@
+# Archivos y carpetas generics
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+node_modules/
+.env
+*.swp
+*.swo
+*~
+
+# Sistemas de compilación
+build/
+dist/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+*.project
+*.class
+
+# Archivos de configuración específicos
+*.orig
+*.bak
+*.backup
